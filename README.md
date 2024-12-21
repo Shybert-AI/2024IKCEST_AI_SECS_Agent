@@ -72,9 +72,9 @@ IKCEST_Football
    │  ├─......
    │
    └─dev
-      ├─10.txt
-      ├─11.txt
-      ├─12.txt
+      ├─SNMOT-060_000009.txt
+      ├─SNMOT-060_000013.txt
+      ├─SNMOT-060_000014.txt
       ├─......
 ```
 ### 3.训练足球检测模型
