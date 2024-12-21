@@ -24,7 +24,7 @@
 │  yolov8_train.py                   足球检测训练脚本
 ```
 ### 2.数据集的目录结构如下：
-数据集制作参考1~3步骤：
+数据集制作参考博客1~3步骤：
 https://blog.csdn.net/weixin_43509698/article/details/144570002  
 IKCEST_Football数据集下载：  
 百度网盘链接: https://pan.baidu.com/s/1upT_aD06lzjuz-Xjze0dcw 提取码: 6eax
