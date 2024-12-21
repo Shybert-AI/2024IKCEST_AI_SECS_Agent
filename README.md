@@ -1,3 +1,23 @@
+# AI体育赛事解说智能体，AI_SECS_Agent
+
+本项目是2024IKCEST国际大数据竞赛的一个子模型，整个项目的内存为3.24G,包含了所有智能体的代码和模型：
+百度网盘：AI_Sports_Event_Commentary_V2.tar.gz  
+链接: https://pan.baidu.com/s/1bePqKql77b3z71-tFhq1ng 提取码: waeu  
+文件的目录结构为：
+<img src="result/img.png" width="100%">
+```
+环境安装：
+pip install -r requirements.txt
+启动服务：
+python server.py
+启动完成后就可以使用POST的方法请求URL进行足球赛道的解说,当然这些prompt可以送给其他大语言模型LLM进行赛事的解说。
+```
+### 智能体结构图，智能体的制作流程详见 第8名-浩瀚星辰-答辩PPT（中文）.pptx
+<img src="result/智能体.png" width="100%">  
+
+### 效果图
+<img src="result/p4.png" width="100%">  
+
 # YOLOV8足球检测模型训练及追踪
 <img src="result/output.gif" width="100%">
 
@@ -24,7 +44,7 @@
 │  yolov8_train.py                   足球检测训练脚本
 ```
 ### 2.数据集的目录结构如下：
-数据集制作参考博客1~3步骤：
+数据集制作参考1~3步骤：
 https://blog.csdn.net/weixin_43509698/article/details/144570002  
 IKCEST_Football数据集下载：  
 百度网盘链接: https://pan.baidu.com/s/1upT_aD06lzjuz-Xjze0dcw 提取码: 6eax
@@ -52,9 +72,9 @@ IKCEST_Football
    │  ├─......
    │
    └─dev
-      ├─SNMOT-060_000009.txt
-      ├─SNMOT-060_000013.txt
-      ├─SNMOT-060_000014.txt
+      ├─10.txt
+      ├─11.txt
+      ├─12.txt
       ├─......
 ```
 ### 3.训练足球检测模型
