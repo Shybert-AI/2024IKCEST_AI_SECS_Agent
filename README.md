@@ -1,4 +1,4 @@
-# AI体育赛事解说智能体，AI_SECS_Agent
+# AI体育赛事解说智能体
 
 本项目是2024IKCEST国际大数据竞赛的一个子模型，整个项目的内存为3.24G,包含了所有智能体的代码和模型：
 百度网盘：AI_Sports_Event_Commentary_V2.tar.gz  
