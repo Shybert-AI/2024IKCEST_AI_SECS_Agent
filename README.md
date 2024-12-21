@@ -1,6 +1,6 @@
 # AI体育赛事解说智能体
 
-本项目是2024IKCEST国际大数据竞赛的一个子模型，整个项目的内存为3.24G,包含了所有智能体的代码和模型：
+&nbsp;&nbsp;&nbsp;&nbsp;本项目是2024IKCEST国际大数据竞赛体育赛事解说的，整个项目的内存为3.24G,包含了所有智能体的代码和模型：
 百度网盘：AI_Sports_Event_Commentary_V2.tar.gz  
 链接: https://pan.baidu.com/s/1bePqKql77b3z71-tFhq1ng 提取码: waeu  
 文件的目录结构为：
